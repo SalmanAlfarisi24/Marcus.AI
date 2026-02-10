@@ -1,0 +1,7 @@
+{
+  "name": "Marcus.AI",
+  "description": "A Stoic philosophy AI companion that prioritizes logic over chaos using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
